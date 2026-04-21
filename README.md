@@ -1,64 +1,55 @@
-# 👋 Hi, I'm Dexter
+# Hi, I'm Dexter
 
-### Data Analyst transitioning from Mechanical/R&D Engineering  
-**Python • SQL • Machine Learning • Statistical Modeling • Data Visualization**
+### Analytics Practitioner | Mechanical R&D Engineer | Georgia Tech M.S. Analytics
 
-I'm an engineer turning my analytical background toward data science.  
-I spent 5+ years developing and validating high-reliability medical and industrial systems, where I worked heavily with data — statistical modeling, DOE, root-cause analysis, and process optimization.  
+I build data-driven analyses that connect statistical methods, engineering context, and operational decision-making.
 
-Now I'm focused on building end-to-end data projects using modern tools:
-- **Python (Pandas, NumPy, Scikit-learn)**
-- **SQL (PostgreSQL, BigQuery)**
-- **Power BI / Tableau**
-- **Machine Learning & Predictive Modeling**
-- **Data Cleaning • EDA • Experimentation • A/B testing**
-- **Analytics Engineering fundamentals**
+My background is in mechanical R&D engineering, where I have applied Python, SQL, statistical analysis, DOE, machine learning, and BI reporting to real manufacturing and product-development problems. I have worked across medical-device and high-reliability engineering environments, translating messy operational data into root-cause findings, process improvements, dashboards, and stakeholder-ready recommendations.
 
-Currently pursuing an **M.S. in Analytics at Georgia Tech** to deepen my knowledge in machine learning, statistics, and database systems.
+I'm currently pursuing a master's degree in Analytics at Georgia Tech, with a focus on machine learning, statistics, and applied data systems.
 
 ---
 
-## 🔧 Technical Skills
-**Languages:** Python, SQL  
-**Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-**Analytics:** A/B Testing, Regression, Classification, Clustering  
-**Tools:** Jupyter, Power BI, Tableau, Excel  
-**Engineering:** DOE, Statistical Analysis, Root Cause Investigation  
+## Technical Skills
+
+**Languages:** Python, SQL, R  
+**Libraries:** pandas, NumPy, scikit-learn, Matplotlib, Seaborn  
+**Analytics:** Statistical analysis, regression, classification, SVM, DOE, hypothesis testing, EDA  
+**BI & Reporting:** Tableau, Power BI, Excel, PowerPoint  
+**Engineering Context:** Root-cause analysis, process optimization, validation, product-development analytics  
 
 ---
 
-## 📚 Featured Projects
+## Featured Projects
 
-### 📌 1. Manufacturing Data Validation (Python, SQL)
-Automated cross-check workflows for test data using Python + SQL.  
-**Skills:** Data Cleaning, Outlier Detection, Automations, Reporting  
-➡️ *Repo link coming soon*
+### Manufacturing Process Driver Analysis
+Applied Python, SQL, and SVM modeling to historical build and test data to identify process inputs associated with yield and performance variability.
 
-### 📌 2. Process Optimization via DOE (Python)
-Designed and analyzed a DOE to identify key contributors to performance.  
-**Skills:** Regression, Feature Importance, Experimental Design  
-➡️ *Repo link coming soon*
+**Skills:** Python, SQL, feature engineering, SVM, classification, manufacturing analytics
 
-### 📌 3. Predictive Maintenance Modeling  
-Built a random forest model to detect early failure indicators from sensor data.  
-**Skills:** ML Modeling, Cross-Validation, Time-Series EDA  
-➡️ *Repo link coming soon*
+### DOE-Based Failure Isolation
+Designed and analyzed a DOE using pressure-sensitive film to isolate manufacturing failure points and support process updates for next-generation devices.
 
----
+**Skills:** Experimental design, statistical analysis, root-cause investigation, process optimization
 
-## 🌱 Current Focus
-- Building a machine learning portfolio  
-- Improving SQL querying & data modeling  
-- Learning analytics engineering (dbt, Airflow fundamentals)  
-- Applying statistical thinking to business problems  
+### SQL + Python Analytics Automation
+Built recurring data extraction, transformation, and reporting workflows to standardize analyses and support self-service visibility through BI dashboards.
+
+**Skills:** SQL, Python, Tableau, Power BI, data cleaning, dashboarding
 
 ---
 
-## 📫 Get in Touch  
-📧 **loh.dexter1@gmail.com**  
-📍 Waltham, MA  
+## Current Focus
+
+- Building applied machine learning and analytics portfolio projects
+- Strengthening SQL, data modeling, and analytics engineering fundamentals
+- Translating engineering data into business and product decisions
+- Communicating technical findings for non-technical stakeholders
 
 ---
 
-### ⚡ Fun Fact  
-Before data science, I engineered medical devices and nuclear propulsion hardware — which taught me how to think analytically, design experiments, and validate complex systems.
+## Contact
+
+**Email:** loh.dexter1@gmail.com  
+**Location:** Shrewsbury, MA  
+**GitHub:** github.com/dexterloh
