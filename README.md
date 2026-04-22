@@ -1,6 +1,6 @@
 # Dexter Loh
 
-### Applied Analytics | SQL, Python, ML & BI | Georgia Tech M.S. Analytics Candidate
+### Applied Analytics | SQL, Python, ML & BI | Georgia Tech M.S. Analytics
 
 I build analytics workflows that turn messy operational data into decisions. My background is in mechanical R&D engineering, where I have applied SQL, Python, statistical analysis, machine learning, DOE, and BI reporting to real manufacturing and product-development problems.
 
