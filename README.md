@@ -1,42 +1,57 @@
 # Dexter Loh
 
-### Data Scientist / Analyst | Georgia Tech M.S. Analytics Candidate | Mechanical R&D Engineer
+### Applied Analytics | SQL, Python, ML & BI | Georgia Tech M.S. Analytics Candidate
 
-I use Python, SQL, R, and statistical learning to turn messy operational and business data into clear decisions. My background combines engineering problem-solving with applied analytics: data cleaning, exploratory analysis, modeling, visualization, root-cause analysis, and stakeholder-ready reporting.
+I build analytics workflows that turn messy operational data into decisions. My background is in mechanical R&D engineering, where I have applied SQL, Python, statistical analysis, machine learning, DOE, and BI reporting to real manufacturing and product-development problems.
 
-I am especially interested in analytics roles where the work connects data, operations, product, and business outcomes.
+I combine production data experience with Georgia Tech analytics training across machine learning, statistical modeling, experimentation, and business reporting.
 
 ## Core Skills
 
 **Languages:** Python, SQL, R  
 **Analytics:** EDA, regression, classification, clustering, PCA, DOE, hypothesis testing, model evaluation  
-**Libraries:** pandas, NumPy, scikit-learn, Matplotlib, Seaborn, ggplot2  
+**ML & Stats:** SVM, Random Forest, logistic regression, LASSO/Ridge, KNN, Naive Bayes, LOESS, cross-validation  
 **BI & Reporting:** Tableau, Power BI, Excel, PowerPoint  
-**Domain Strengths:** manufacturing analytics, process improvement, sports analytics, operational decision support
+**Domains:** manufacturing analytics, operations analytics, process improvement, sports analytics
 
-## Selected Projects
+## Applied Analytics Experience
+
+### Manufacturing Process Driver Analysis
+Built SQL and Python workflows to clean, join, and analyze historical build and test data from production systems. Applied feature engineering and SVM classification to identify process inputs associated with yield and performance variability.
+
+**Signals:** production data, SQL extraction, Python modeling, feature engineering, driver identification, process optimization.
+
+### Analytics Automation & BI Reporting
+Standardized recurring analytics workflows using SQL for extraction, Python for transformation, and Tableau / Power BI for stakeholder-facing reporting.
+
+**Signals:** pipeline thinking, dashboarding, stakeholder communication, operational decision support.
+
+### DOE-Based Failure Isolation
+Designed and executed a DOE using pressure-sensitive film to isolate manufacturing failure points and support process updates for next-generation devices.
+
+**Signals:** experimental design, statistical reasoning, root-cause analysis, decision impact.
+
+## Academic Analytics Projects
 
 ### [NBA Positional Evolution Analytics](https://github.com/dexterloh24/nba-positional-evolution)
-Analyzed NBA player-season data from 1980-2021 to measure how point guard and power forward roles changed over time. Used EDA, LOESS smoothing, linear regression, k-means clustering, and PCA to compare early-era and late-era player profiles.
+Analyzed NBA player-season data from 1980-2021 to study how point guard and power forward roles changed over time. Used EDA, LOESS smoothing, linear regression, k-means clustering, and PCA to compare early-era and late-era statistical profiles.
 
-**Result:** Found statistical evidence that traditional position boundaries have blurred: point guards became more scoring/rebounding oriented, power forwards moved away from traditional interior production, and clustering/PCA showed increased positional overlap.
+**Finding:** point guards became more scoring/rebounding oriented, power forwards moved away from traditional interior production, and clustering/PCA showed increased positional overlap.
 
 ### [Banana Ball vs. MLB Predictive Modeling](https://github.com/janeshelbyporter/ISYE-6740-Group-Project-039)
-Built a Georgia Tech machine learning project comparing Banana Ball and MLB player statistics to test whether models trained on traditional baseball data generalize to a rules-modified game format.
+Built a machine learning project comparing Banana Ball and MLB statistics to test whether models trained on traditional baseball data generalize to a rules-modified game format.
 
-**Methods:** Python, pandas, scikit-learn, Random Forest models, feature engineering, model evaluation, SHAP feature importance.
+**Methods:** Python, pandas, scikit-learn, Random Forest, SHAP, feature engineering, model evaluation.
 
-### Manufacturing Lead Time & Process Analytics
-Analyzed manufacturing and operational data to identify drivers of lead time, yield, and performance variability. Applied statistical analysis, DOE, root-cause investigation, and stakeholder reporting to support process improvements.
+### Statistical Learning Coursework
+Completed projects covering classification, regression, regularization, model comparison, local smoothing, and simulation.
 
-**Focus:** queue time, batch size, downtime, rework, process variation, quality metrics, and decision-ready reporting.
+**Methods:** logistic regression, LDA/QDA, KNN, Naive Bayes, Ridge, LASSO, PCR, PLS, splines, kernel smoothing, Monte Carlo, bias-variance analysis.
 
-## What I Bring
+## Education
 
-- Strong analytical foundation from Georgia Tech's M.S. Analytics program
-- Engineering experience working with real operational data, not just clean classroom datasets
-- Ability to explain models and statistical findings to technical and non-technical audiences
-- Practical orientation toward decisions, process improvement, and measurable business impact
+**Georgia Institute of Technology**  
+Master's degree in Analytics, expected May 2027
 
 ## Contact
 
