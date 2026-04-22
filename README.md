@@ -22,6 +22,11 @@ I'm currently pursuing a master's degree in Analytics at Georgia Tech, with a fo
 
 ## Featured Projects
 
+### [Banana Ball vs. MLB Predictive Modeling](https://github.com/janeshelbyporter/ISYE-6740-Group-Project-039)
+Built a Georgia Tech machine learning project comparing Banana Ball and MLB player statistics to evaluate whether traditional baseball models generalize to a rules-modified game format. Trained Random Forest models for batting and pitching outcomes, cleaned raw sports datasets, evaluated cross-domain model performance, and used SHAP analysis to explain feature importance.
+
+**Skills:** Python, pandas, scikit-learn, Random Forest, SHAP, feature engineering, sports analytics, model evaluation
+
 ### Manufacturing Process Driver Analysis
 Applied Python, SQL, and SVM modeling to historical build and test data to identify process inputs associated with yield and performance variability.
 
